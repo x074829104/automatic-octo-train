@@ -1,0 +1,46 @@
+[
+    {
+        "SubjectName" : "CN=DeploymentsOnebox.LcsClientCertificate.pfx",
+        "Semaphore" : "[LCS CLIENT CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=DeploymentsOnebox.SessionAuthenticationCertificate.pfx",
+        "Semaphore" : "[SESSION AUTH CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=usnconeboxax1aos.cloud.onebox.dynamics.com, O=Microsoft Corporation, L=Redmond, S=WA, C=US",
+        "Semaphore" : "[AOS SSL BINDING and CSU CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=DataEncryptionCertificate",
+        "Semaphore" : "[DATA ENCRYPTION and SIGNING CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=*.cloud.onebox.dynamics.com, O=Microsoft Corporation, L=Redmond, S=WA, C=US",
+        "Semaphore" : "[RETAILSERVICEACCOUNT CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=MicrosoftDynamicsAXDSCEncryptionCert",
+        "Semaphore" : "[AXDSC ENCRYPTION CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=DeploymentsOnebox.MRClientCertificate.pfx",
+        "Semaphore" : "[MR CLIENT CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=DeploymentsOnebox.DaxRunnerTokenUserCertificate.pfx",
+        "Semaphore" : "[DAX RUNNER TOKEN USER CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=DeploymentsOnebox.LocatorServiceClientCertificate.pfx",
+        "Semaphore" : "[CLIENT CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=aadclient-onebox-locator1-dynamics-com",
+        "Semaphore" : "[GRAPHAPI and S2S CERT THUMBPRINT]"
+    },
+    {
+        "SubjectName" : "CN=https://offline.fakeacs.accesscontrol.windows.net",
+        "Semaphore" : "[FAKE ACS CERT THUMBPRINT]"
+    }
+]

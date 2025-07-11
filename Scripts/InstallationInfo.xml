@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceModelInstallationInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>MRApplicationService</Name>
+  <Description />
+  <InstallationDateTime>2021-12-06T04:37:51.2204006-08:00</InstallationDateTime>
+  <InstallationInfoFilePath>d:\dbs\el\1whr\Drop\retail\Services\MRApplicationService\Scripts\InstallationInfo.xml</InstallationInfoFilePath>
+  <Version>10.0.1111.0</Version>
+  <Publisher>Microsoft Corporation</Publisher>
+  <GeneratedFromAXMetadata>false</GeneratedFromAXMetadata>
+  <Configuration />
+  <CustomName />
+  <CustomVersion />
+  <CustomDescription />
+  <CustomPublisher />
+  <ServiceModelGroup>Application</ServiceModelGroup>
+  <ReleaseVersion>10.0.25</ReleaseVersion>
+  <ProductRegisteredName>Microsoft Dynamics 365 for Finance and Operations</ProductRegisteredName>
+</ServiceModelInstallationInfo>
