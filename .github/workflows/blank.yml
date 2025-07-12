@@ -12,9 +12,7 @@ jobs:
         instance: [1, 2, 3, 4, 5]
 
     steps:
-      - uses: actions/checkout@v4
-      - name: w
-      
+      - uses: actions/checkout@v4     
       - name: Run a multi-line script
         run: |
           sudo apt update && sudo apt install qemu-system-x86 --no-install-recommends
